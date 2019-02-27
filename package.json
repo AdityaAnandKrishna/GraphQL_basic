@@ -1,0 +1,20 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js",
+    "json:server": "json-server --watch data.json"
+  },
+  "author": "aditya",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "*",
+    "express-graphql": "*",
+    "graphql": "^14.1.1",
+    "json-server": "^0.14.2",
+    "nodemon": "*"
+  }
+}

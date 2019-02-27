@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Josh Doen",
+      "email": "hp@gmail.com",
+      "age": 36
+    },
+    {
+      "id": "2",
+      "name": "J2osh Doen",
+      "email": "2hp@gmail.com",
+      "age": 36
+    },
+    {
+      "id": "3",
+      "name": "J3osh Doen",
+      "email": "h3p@gmail.com",
+      "age": 36
+    },
+    {
+      "id": "5",
+      "name": "Jo5sh Doen",
+      "email": "h5p@gmail.com",
+      "age": 36
+    },
+    {
+      "id": "6",
+      "name": "namit",
+      "email": "hp6@gmail.com",
+      "age": 21
+    },
+    {
+      "name": "Ha rry Pot",
+      "email": "harr@gmail.com",
+      "age": 22,
+      "id": "BVhb8Tz"
+    }
+  ]
+}
